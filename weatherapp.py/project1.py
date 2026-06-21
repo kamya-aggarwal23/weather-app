@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "f6c3916b72b9061e7e0878ebdfc2b1c8"
+API_KEY = "YOUR_API_KEY"
 
 def get_weather(city):
     """this function retrieves the wheather and display it """
