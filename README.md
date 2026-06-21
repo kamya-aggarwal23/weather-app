@@ -16,11 +16,7 @@ A simple Python weather application that uses the OpenWeatherMap API to fetch re
 - Requests
 - OpenWeatherMap API
 
-## Run
-
-```bash
-pip install requests
-python weather_app.py
-```
-
 Replace `YOUR_API_KEY` with your own API key before running the program.
+
+##Author
+Kamya Aggarwal
