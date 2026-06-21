@@ -4,3 +4,9 @@ __pycache__/
 history.txt
 weather_data.json
 *.pyc
+numpy/
+python_basics.py/
+tables/
+Class1.py
+masai.ipynb
+masaiexam.py
