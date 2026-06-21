@@ -1,4 +1,5 @@
 Weather App
+
 This is a simple weather application built using Python and the OpenWeatherMap API. It allows users to enter a city name and view the current weather details.
 
 The application displays:
